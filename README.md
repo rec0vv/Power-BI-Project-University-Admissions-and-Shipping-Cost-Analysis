@@ -48,3 +48,10 @@ Bookmarks, Drillthroughs, and Tooltip Pages
 Built end-to-end dashboards using advanced transformation techniques. 
 Delivered actionable insights on university admission patterns and shipping inefficiencies. 
 Demonstrated capability to integrate data engineering with business analytics using Power BI.
+
+✅Screenshots
+![1](https://github.com/user-attachments/assets/8c252a76-9681-4ca1-8d4d-da6e421ae752)
+![2](https://github.com/user-attachments/assets/18b02805-a8a9-4bac-a7b6-74510a60cff9)
+![3](https://github.com/user-attachments/assets/e734f6d8-6d98-4342-95a8-3698e8519430)
+![4](https://github.com/user-attachments/assets/c00f2784-0871-4afd-b152-b2fb7b87249b)
+
