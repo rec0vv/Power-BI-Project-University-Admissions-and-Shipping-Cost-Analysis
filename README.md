@@ -1,5 +1,6 @@
 # Power-BI-Project-University-Admissions-and-Shipping-Cost-Analysis
 This repository contains a multi-part Power BI project covering advanced data transformations and visualizations across two domains: University Admissions and Retail Shipping Costs. The project demonstrates the use of Power BI’s Power Query Editor, Data Modeling, and Advanced Visualization features to extract insights and present them through interactive dashboards.
+
 🧩 Problem Statement 1: Data Transformation for University Admissions Dashboard Objective: Perform comprehensive data transformations to model admission data for dashboard analysis. Dataset: USA State University Admissions Use Case: Analyze the trend of admissions into state universities using a clean and well-modeled dataset.
 
 📈 Problem Statement 2: Advanced Visualizations on University Admissions Objective: Build interactive and insightful dashboards using expressions, DAX measures, and custom visuals.
